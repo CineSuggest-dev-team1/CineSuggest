@@ -6,8 +6,6 @@
 
 <img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/4176668c-a6a9-4dc7-ab8f-aa348661a62b" width="150" style="margin: 10px;">
 <img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/716d0e43-6cae-4937-8f1d-c485ef388568" width="150" style="margin: 10px;">
-<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/11590f20-d5bb-4dc8-a7af-9b5244846c5d" width="150" style="margin: 10px;">
-
 
 # Executive Summary/Abstract
 Films are a unique form of human creative work, combining production processes and narrative storytelling in both audio and visual formats. These artistic creations reflect various aspects of human life and often strive to portray real-life conditions authentically. Creating films involves substantial time, cost, and effort, resulting in a diverse array of genres from fiction and nonfiction to action and adventure, catering to a broad audience. Technological advancements in film production have expanded the range of available films, attracting a growing audience eager to explore these cinematic works in theaters.
