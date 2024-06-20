@@ -1,12 +1,12 @@
 # CineSuggest - Movie Recommendation
 
-<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/55d662df-1f67-441f-a4fd-95572b520825" width="300" style="margin: 10px;">
-<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/2e40acea-c9de-4316-9afa-71cb015a4897" width="300" style="margin: 10px;">
-<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/d5706b67-0b1d-4b97-b5bb-64e24f832612" width="300" style="margin: 10px;">
+<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/55d662df-1f67-441f-a4fd-95572b520825" width="150" style="margin: 10px;">
+<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/2e40acea-c9de-4316-9afa-71cb015a4897" width="150" style="margin: 10px;">
+<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/d5706b67-0b1d-4b97-b5bb-64e24f832612" width="150" style="margin: 10px;">
 
-<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/4176668c-a6a9-4dc7-ab8f-aa348661a62b" width="300" style="margin: 10px;">
-<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/716d0e43-6cae-4937-8f1d-c485ef388568" width="300" style="margin: 10px;">
-<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/11590f20-d5bb-4dc8-a7af-9b5244846c5d" width="300" style="margin: 10px;">
+<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/4176668c-a6a9-4dc7-ab8f-aa348661a62b" width="150" style="margin: 10px;">
+<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/716d0e43-6cae-4937-8f1d-c485ef388568" width="150" style="margin: 10px;">
+<img src="https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/11590f20-d5bb-4dc8-a7af-9b5244846c5d" width="150" style="margin: 10px;">
 
 
 # Executive Summary/Abstract
