@@ -1,5 +1,10 @@
 # CineSuggest - Movie Recommendation
 
+![2](https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/55d662df-1f67-441f-a4fd-95572b520825)
+![5](https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/2e40acea-c9de-4316-9afa-71cb015a4897)
+![8](https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/d5706b67-0b1d-4b97-b5bb-64e24f832612)
+![13](https://github.com/CineSuggest-dev-team1/CineSuggest/assets/90821463/4176668c-a6a9-4dc7-ab8f-aa348661a62b)
+
 # Executive Summary/Abstract
 Films are a unique form of human creative work, combining production processes and narrative storytelling in both audio and visual formats. These artistic creations reflect various aspects of human life and often strive to portray real-life conditions authentically. Creating films involves substantial time, cost, and effort, resulting in a diverse array of genres from fiction and nonfiction to action and adventure, catering to a broad audience. Technological advancements in film production have expanded the range of available films, attracting a growing audience eager to explore these cinematic works in theaters.
 
